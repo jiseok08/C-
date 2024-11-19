@@ -4,9 +4,9 @@
 //메인 함수는 프로그램이 실행되는 진입점입니다
 
 
-void main()
-{
-	printf("Hello");
-
-
-}
+//void main()
+//{
+//	printf("Hello");
+//
+//
+//}

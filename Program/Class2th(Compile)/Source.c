@@ -73,7 +73,7 @@ void main()
 	// 프로그램이 실행되는 동안 더 이상 변경할 수 없는
 	// 메모리 공간입니다.
 
-	const int value = 99;
+	//const int value = 99;
 
 	//value = 45;
 
