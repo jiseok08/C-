@@ -1,3 +1,4 @@
 ﻿  Source.c
-C:\Users\허봉식\Desktop\C-\Program\Program\Source.c(47,5): warning C4552: '+': 식의 결과가 사용되지 않습니다.
-  Program.vcxproj -> C:\Users\허봉식\Desktop\C-\Program\x64\Debug\Program.exe
+C:\Users\허봉식\Desktop\C-\C-\Program\Program\Source.c(101,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'void *'입니다.
+C:\Users\허봉식\Desktop\C-\C-\Program\Program\Source.c(101,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) void *' 형식의 인수 1과(와) 충돌합니다.
+  Program.vcxproj -> C:\Users\허봉식\Desktop\C-\C-\Program\x64\Debug\Program.exe
