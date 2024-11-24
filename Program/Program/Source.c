@@ -88,7 +88,7 @@ void main()
 	// 자료형이 정해지지 않은 상태로 모든 자료형을
 	// 저장할 수 있는 포인터입니다.
 
-	void* pointer = NULL;
+	void* p = NULL;
 
 	char character = 'A';
 
@@ -96,12 +96,17 @@ void main()
 
 	float decimal = 5.5f;
 
-	void* pointer = &character;
+	p = &character;
+	*(char*)p = 'B';
+	printf("charater 변수의 값 : %c\n", character);
 
-	printf("%d\n", pointer);
+	p = &integer;
+	*(int*)p = 99;
+	printf("integer : %d\n", integer);
 
-	*(char*)pointer = 'B';
-	printf("캐릭터 %d\n", character);
+	p = &decimal;
+	*(float*)p = 10.1f;
+	printf("decimal : %f\n", decimal);
 
 	// 범용 포인터는 메모리 주소에 접근해서 값을
 	// 변경할 수 없습니다.
