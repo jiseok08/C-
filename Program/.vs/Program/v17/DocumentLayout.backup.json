@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{20FBA5C6-2705-4339-9E64-878191228085}|Program\\Program.vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\C-\\Program\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{20FBA5C6-2705-4339-9E64-878191228085}|Program\\Program.vcxproj|solutionrelative:Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17CD8CFB-4165-46E5-A284-90AD0BF7966F}|Class9th\\Class9th.vcxproj|C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\C-\\Program\\Class9th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{17CD8CFB-4165-46E5-A284-90AD0BF7966F}|Class9th\\Class9th.vcxproj|solutionrelative:Class9th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\C-\\Program\\Class9th\\Source.c",
-              "RelativeDocumentMoniker": "Class9th\\Source.c",
-              "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\C-\\Program\\Class9th\\Source.c",
-              "RelativeToolTip": "Class9th\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-02T10:18:07.875Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,7 +24,7 @@
               "RelativeDocumentMoniker": "Program\\Source.c",
               "ToolTip": "C:\\Users\\\uD5C8\uBD09\uC2DD\\Desktop\\C-\\Program\\Program\\Source.c*",
               "RelativeToolTip": "Program\\Source.c*",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAswJ4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAD4vzoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-11-21T09:51:51.667Z",
               "EditorCaption": ""
