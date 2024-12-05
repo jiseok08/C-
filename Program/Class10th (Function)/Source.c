@@ -1,6 +1,8 @@
 #include <stdio.h> 
 #include <stdarg.h>
 
+#include "Calculator.h"
+
 void Function()
 {
 	printf("Function...\n");
@@ -163,5 +165,32 @@ void main()
 	// DYnamicFunction(3, 10, 20, 30);
 
 #pragma endregion
+
+#pragma region 함수 포인터
+	// 함수의 주소값을 저장하고 가리킬 수 있는
+	// 변수입니다.
+
+	// float (*functionPointer) (float,float) = NULL;
+	// 
+	// functionPointer = Add;
+	// 
+	// printf("functionpointer(5, 5)의 값 :%f\n", functionPointer(5,5));
+	// 
+	// functionPointer = Subtract;
+	// 
+	// printf("functionpointer(5, 5)의 값 :%f\n", functionPointer(5, 5));
+	// 
+	// functionPointer = Multiply;
+	// 
+	// printf("functionpointer(5, 5)의 값 :%f\n", functionPointer(5, 5));
+	// 
+	// functionPointer = Divide;
+	// 
+	// printf("functionpointer(5, 5)의 값 :%f\n", functionPointer(5, 5));
+
+	// 함수 포인터는 함수의 반환형과 매개 변수의 형태가
+	// 일치해야 합니다.
+#pragma endregion
+
 
 }
